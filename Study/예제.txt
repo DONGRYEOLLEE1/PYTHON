@@ -1,0 +1,9 @@
+1. buying, maint, doors, persons, lug_boot, safety, class
+
+   * class : unacc / acc / good / v-good
+
+2. 학습
+
+3. score
+
+4. 임의의 5개 포인트로 실제 y와 예상 y를 비교해보자.

@@ -1,0 +1,14 @@
+buying : low(1), med(2), high(3), vhigh(4)
+
+maint : low(1), med(2), high(3), vhigh(4)
+
+doors : 5more(5)
+
+persons : more(5)
+
+lug_boot : small(1), med(2), big(3)
+
+safety : low(1), med(2), high(3)
+
+class : unacc(1), acc(2), good(3), vgood(4)
+
